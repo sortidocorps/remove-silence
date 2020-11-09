@@ -15,6 +15,6 @@ How run
 '''
 > py remove_all.py "\YOUTUBE\VIDEO\REMOVE_SILENCE\test" "*" "mp4"
 '''
-- Fisrt arg is for the path
+- First arg is for the path
 - Second arg is for what you want, here I want all the video
 - The third arg is for the extention video
